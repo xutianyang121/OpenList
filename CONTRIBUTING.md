@@ -11,7 +11,7 @@ Prerequisites:
 - [gcc](https://gcc.gnu.org/)
 - [nodejs](https://nodejs.org/)
 
-## Cloning a fork
+## Cloning a forklkju
 
 Fork and clone `OpenList` and `OpenList-Frontend` anywhere:
 
